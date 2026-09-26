@@ -1,0 +1,8 @@
+uploads/*
+!uploads/.gitkeep
+
+database/verified_house.sql
+
+*.log
+.DS_Store
+Thumbs.db
